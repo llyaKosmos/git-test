@@ -1,3 +1,4 @@
 ﻿print("Hello wolrd!");
 print("Hello Everybody!");
 wtiteln("Введите пароль");
+writeln("Введите праоль ещё раз")
