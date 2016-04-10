@@ -1,3 +1,0 @@
-﻿print("Hello wolrd!");
-print("Hello Everybody!");
-wtiteln("Введите пароль");
