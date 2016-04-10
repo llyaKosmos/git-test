@@ -4,3 +4,4 @@ wtiteln("Введите пароль");
 writeln("Введите праоль ещё раз")
 
 print("Hello my dear friend")
+print(glad to see you")
